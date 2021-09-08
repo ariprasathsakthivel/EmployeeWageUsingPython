@@ -3,11 +3,10 @@
 @Date: 2021-09-08 20:51:00
 @Last Modified by: Ariprasath
 @Last Modified time: 2021-09-08
-@Title : Check employee is present or absent
+@Title : calculating wages for a month
 '''
 
 
-from functools import total_ordering
 import random
 
 wage_per_hour=20
